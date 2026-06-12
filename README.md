@@ -41,6 +41,35 @@ print(a+b)
 
 ![image](https://www.libertyprim.com/en/lexique-familles/103/apple-lexique-des-fruits.htm)
 
+Ordered List
+1.Apple
+2.Orange
+3.Pineapple
+
+Unordered List
+
+-Apple
+
+Horizontal Line
+
+Top
+
+---
+
+Bottom
+
+Greatful[^1]
+
+----
+
+[^1]:Thankful
+
+
+
+
+
+
+
 
 
 
