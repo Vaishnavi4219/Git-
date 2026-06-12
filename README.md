@@ -62,7 +62,22 @@ Greatful[^1]
 
 ----
 
-[^1]:Thankful
+ [X]:Thankful
+ 
+- [X] : Greatful 
+
+-[ ] option 3
+
+Table
+
+Name|College|Department|
+---|---|----
+Vaishu|VVIT|CSE
+---|---|----
+Janu|Naryana|10th
+
+
+
 
 
 
